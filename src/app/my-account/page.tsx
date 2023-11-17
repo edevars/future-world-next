@@ -1,5 +1,7 @@
 import styles from './MyAccount.module.sass'
 
+export const dynamic = 'force-dynamic'
+
 export default async function MyAccountPage() {
   return (
     <div>
